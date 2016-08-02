@@ -15,7 +15,7 @@ public class App
     public static void main( String[] args )
     {
      
-    	
+    	// Teste comentário
     	String opcao = JOptionPane.showInputDialog(null, "Escolha uma opção: \n" +
     					" 1-CADASTRAR | 2-CONSULTAR | 3-EXCLUIR | 4-ALTERAR | 5-LISTAR TODOS","OPÇÕES",JOptionPane.PLAIN_MESSAGE);
     	// SAI DO PROGRAMA SE NÃO INFORMAR NENHUMA OPÇÃO
