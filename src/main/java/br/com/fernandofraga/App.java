@@ -6,10 +6,6 @@ import br.com.fernandofraga.entity.Pessoa;
 import br.com.fernandofraga.entity.Pessoas;
 import br.com.fernandofraga.service.ServiceClient;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
